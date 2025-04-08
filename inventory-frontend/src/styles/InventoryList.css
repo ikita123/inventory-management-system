@@ -1,0 +1,31 @@
+/* For <th> elements */
+.inventory-th {
+  text-align: left;
+  padding: 10px;
+  border-bottom: 1px solid #ddd;
+}
+
+/* For <td> elements */
+.inventory-td {
+  padding: 10px;
+  border-bottom: 1px solid #eee;
+}
+
+/* Edit button */
+.inventory-edit-btn {
+  margin-right: 10px;
+  padding: 6px 12px;
+  background: #2196f3;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+}
+
+/* Delete button */
+.inventory-delete-btn {
+  padding: 6px 12px;
+  background: #f44336;
+  color: #fff;
+  border: none;
+  border-radius: 4px;
+}
